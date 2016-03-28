@@ -1,0 +1,6 @@
+C:\Users\Isaac\documents\visual studio 2013\Projects\Project3\Project3\bin\Release\Project3.exe.config
+C:\Users\Isaac\documents\visual studio 2013\Projects\Project3\Project3\bin\Release\Project3.exe
+C:\Users\Isaac\documents\visual studio 2013\Projects\Project3\Project3\bin\Release\Project3.pdb
+C:\Users\Isaac\documents\visual studio 2013\Projects\Project3\Project3\obj\Release\Project3.exe
+C:\Users\Isaac\documents\visual studio 2013\Projects\Project3\Project3\obj\Release\Project3.pdb
+C:\Users\Isaac\documents\visual studio 2013\Projects\Project3\Project3\obj\Release\Project3.csprojResolveAssemblyReference.cache

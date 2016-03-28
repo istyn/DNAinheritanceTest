@@ -1,0 +1,12 @@
+c:\users\isaac\documents\visual studio 2013\Projects\Project3\Project3\bin\Debug\Project3.exe.config
+c:\users\isaac\documents\visual studio 2013\Projects\Project3\Project3\bin\Debug\Project3.exe
+c:\users\isaac\documents\visual studio 2013\Projects\Project3\Project3\bin\Debug\Project3.pdb
+c:\users\isaac\documents\visual studio 2013\Projects\Project3\Project3\obj\Debug\Project3.csprojResolveAssemblyReference.cache
+c:\users\isaac\documents\visual studio 2013\Projects\Project3\Project3\obj\Debug\Project3.exe
+c:\users\isaac\documents\visual studio 2013\Projects\Project3\Project3\obj\Debug\Project3.pdb
+C:\Users\Isaac\Documents\Visual Studio 2013\Projects\Project3old\Project3\bin\Debug\Project3.exe.config
+C:\Users\Isaac\Documents\Visual Studio 2013\Projects\Project3old\Project3\obj\Debug\Project3.exe
+C:\Users\Isaac\Documents\Visual Studio 2013\Projects\Project3old\Project3\obj\Debug\Project3.pdb
+C:\Users\Isaac\Documents\Visual Studio 2013\Projects\Project3old\Project3\bin\Debug\Project3.exe
+C:\Users\Isaac\Documents\Visual Studio 2013\Projects\Project3old\Project3\bin\Debug\Project3.pdb
+C:\Users\Isaac\Documents\Visual Studio 2013\Projects\Project3old\Project3\obj\Debug\Project3.csprojResolveAssemblyReference.cache
